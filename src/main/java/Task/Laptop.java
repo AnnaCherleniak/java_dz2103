@@ -14,11 +14,11 @@ public class Laptop {
     String operatingSystem;
     Boolean gamingLaptop;
     String color;
-    String resolutionScreen; // зарешение экрана
+    String resolutionScreen;
     Double diagonalScreen;
     String modelProcessor;
-    Integer numberCores;  //количество ядер
-    Integer ram; //объем операционной памяти
+    Integer numberCores;
+    Integer ram;
     Integer totalSSD;
     Integer price;
 
